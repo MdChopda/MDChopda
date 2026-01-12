@@ -37,12 +37,13 @@ I have a strong technical foundation in **Python** and enjoy bridging the gap be
 - **Tech:** Python, XGBoost, Pandas.
 - **Key Highlight:** Merged disjointed data sources ("Machine Settings" & "Production Logs") into a single source of truth and processed 9,000+ logs to filter sensor outliers.
 
-**[MealPilot: LLM Tool Server & Data Validation](#)**
+**[MealPilot: LLM Tool Server & Data Validation](https://github.com/MdChopda/MealPilot-MCP
+)**
 *Designed a Model Context Protocol (MCP) server to structure unstructured data requests.*
 - **Tech:** Python, Pydantic, JSON Schema.
 - **Key Highlight:** Implemented a "Schema-First" approach using Pydantic models to enforce strict data contracts, ensuring high reliability.
 
-**[TripNest: Full-Stack Platform](#)**
+**[TripNest: Full-Stack Platform](https://github.com/MdChopda/TripNest)**
 *Built a containerized application featuring an Agentic AI concierge.*
 - **Tech:** Docker, LangChain.
 - **Key Highlight:** Documented backend APIs using Swagger for clear traceability ("Docs-as-Code") and containerized the solution using Docker Compose.
