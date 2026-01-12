@@ -32,7 +32,7 @@ I have a strong technical foundation in **Python** and enjoy bridging the gap be
 
 ### 🔭 Featured Projects
 
-**[SmartBuild Manufacturing: Predictive Fault Detection](#)**
+**[SmartBuild Manufacturing: Predictive Fault Detection](https://github.com/MdChopda/SmartBuild-Manufacturing-Predictive-Fault-Detection)**
 *Developed a predictive maintenance model to detect machine failures using production logs.*
 - **Tech:** Python, XGBoost, Pandas.
 - **Key Highlight:** Merged disjointed data sources ("Machine Settings" & "Production Logs") into a single source of truth and processed 9,000+ logs to filter sensor outliers.
