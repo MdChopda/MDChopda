@@ -26,19 +26,28 @@ I have a strong technical foundation in **Python** and enjoy bridging the gap be
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
 ### 🔭 Featured Projects
+
+**[EU-Park: Data Science Strategy & Analytics](https://github.com/MdChopda/EU-Park-Data-Analytics)**
+*A comprehensive consulting project optimizing theme park operations via Machine Learning.*
+- **Tech:** Python, Random Forest, Apriori Algorithm, XGBoost.
+- **Key Highlight:** Reduced wait time prediction error (RMSE) to **9.83 min** and identified menu bundles that drive **3.7x revenue lift**.
+
+**[Neuro-Linguistic Monitor](https://github.com/MdChopda/neuro-linguistic-monitor)**
+*Early-stage Alzheimer's detection tool using Computational Linguistics and AI.*
+- **Tech:** Python, GPT-2 (Zero-Shot), NLTK, Streamlit.
+- **Key Highlight:** Achieved **98% accuracy** in detecting cognitive decline by analyzing "Digital Biomarkers" (lexical attrition & syntactic confusion) in speech.
 
 **[SmartBuild Manufacturing: Predictive Fault Detection](https://github.com/MdChopda/SmartBuild-Manufacturing-Predictive-Fault-Detection)**
 *Developed a predictive maintenance model to detect machine failures using production logs.*
 - **Tech:** Python, XGBoost, Pandas.
 - **Key Highlight:** Merged disjointed data sources ("Machine Settings" & "Production Logs") into a single source of truth and processed 9,000+ logs to filter sensor outliers.
 
-**[MealPilot: LLM Tool Server & Data Validation](https://github.com/MdChopda/MealPilot-MCP
-)**
+**[MealPilot: LLM Tool Server & Data Validation](https://github.com/MdChopda/MealPilot-MCP)**
 *Designed a Model Context Protocol (MCP) server to structure unstructured data requests.*
 - **Tech:** Python, Pydantic, JSON Schema.
 - **Key Highlight:** Implemented a "Schema-First" approach using Pydantic models to enforce strict data contracts, ensuring high reliability.
@@ -71,4 +80,4 @@ I have a strong technical foundation in **Python** and enjoy bridging the gap be
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulik-d-chopda-33219b311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulik-d-chopda-33219b311)
