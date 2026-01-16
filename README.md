@@ -33,26 +33,31 @@ I have a strong technical foundation in **Python** and enjoy bridging the gap be
 ### 🔭 Featured Projects
 
 **[EU-Park: Data Science Strategy & Analytics](https://github.com/MdChopda/EU-Park-Data-Analytics)**
+
 *A comprehensive consulting project optimizing theme park operations via Machine Learning.*
 - **Tech:** Python, Random Forest, Apriori Algorithm, XGBoost.
 - **Key Highlight:** Reduced wait time prediction error (RMSE) to **9.83 min** and identified menu bundles that drive **3.7x revenue lift**.
 
 **[Neuro-Linguistic Monitor](https://github.com/MdChopda/neuro-linguistic-monitor)**
+
 *Early-stage Alzheimer's detection tool using Computational Linguistics and AI.*
 - **Tech:** Python, GPT-2 (Zero-Shot), NLTK, Streamlit.
 - **Key Highlight:** Achieved **98% accuracy** in detecting cognitive decline by analyzing "Digital Biomarkers" (lexical attrition & syntactic confusion) in speech.
 
 **[SmartBuild Manufacturing: Predictive Fault Detection](https://github.com/MdChopda/SmartBuild-Manufacturing-Predictive-Fault-Detection)**
+
 *Developed a predictive maintenance model to detect machine failures using production logs.*
 - **Tech:** Python, XGBoost, Pandas.
 - **Key Highlight:** Merged disjointed data sources ("Machine Settings" & "Production Logs") into a single source of truth and processed 9,000+ logs to filter sensor outliers.
 
 **[MealPilot: LLM Tool Server & Data Validation](https://github.com/MdChopda/MealPilot-MCP)**
+
 *Designed a Model Context Protocol (MCP) server to structure unstructured data requests.*
 - **Tech:** Python, Pydantic, JSON Schema.
 - **Key Highlight:** Implemented a "Schema-First" approach using Pydantic models to enforce strict data contracts, ensuring high reliability.
 
 **[TripNest: Full-Stack Platform](https://github.com/MdChopda/TripNest)**
+
 *Built a containerized application featuring an Agentic AI concierge.*
 - **Tech:** Docker, LangChain.
 - **Key Highlight:** Documented backend APIs using Swagger for clear traceability ("Docs-as-Code") and containerized the solution using Docker Compose.
